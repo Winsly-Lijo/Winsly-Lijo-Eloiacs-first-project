@@ -1,0 +1,125 @@
+
+
+body{
+    background-color: rgb(45, 45, 68);
+}
+.brand{
+    font-size: 25px;
+    margin-left: 267px;
+    color: rgb(255, 255, 255);
+    margin-top: 39px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navi{
+   justify-content: space-between;
+   display: flex;
+}
+.hppc{
+    color: white;
+    font-size: 15px;
+    display:flex;
+    list-style-type: none;
+    justify-content:center;
+    margin-left:-175px;
+    margin-top: 15px;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li a{
+    text-decoration: none;
+}
+li{
+    padding: 12px;
+    text-decoration: none;
+    list-style: none;
+}
+.log{
+    font-size: 20px;
+    list-style-type: none;
+    display: flex;
+    margin-top: 25px;
+    margin-left: -11px;
+    margin-right: 136px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.join{
+    padding: 6px;
+    background-color: rgb(65, 163, 220);
+    border-radius: 5px;
+    width: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.get{
+    font-size: 10px;
+    color: aliceblue;
+    padding: 9px;
+    border-radius: 5px;
+    background-color: rgb(81, 168, 245);
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.learn{
+    font-size: 10px ;
+    color:rgb(81, 168, 245) ;
+    padding: 9px;
+    border-radius: 5px;
+    background-color: rgb(45, 45, 68);
+    cursor: pointer;
+    border-color:rgb(65, 163, 220) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fa-face-smile{
+    color: rgb(230, 239, 239);
+}
+.font1{
+    color: brown;
+}
+.par{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    display: inline-block;
+    padding: 37px;
+    width: 186px;
+    height: 182px;
+    background-color: white;
+    text-align: justify;
+    margin: 23px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.box:hover{
+   background-color: rgb(0, 183, 255);
+   box-shadow: 0px 0px 5px rgb(0, 183, 255), 0px 0px 25px rgb(0, 183, 255), 0px 0px 50px rgb(0, 183, 255) ;
+   color: white;
+   transition: 0.1px;
+}  
+.emoji1{
+    color:red ;
+    padding: 9px;
+    background-color:rgb(193, 149, 149) ;
+    border-radius: 5px;
+    margin-right: 155%;   
+}
+.emoji2{
+    color:rgb(0, 58, 7) ;
+    padding: 9px;
+    background-color:rgb(0, 255, 8) ;
+    border-radius: 5px;
+    margin-right: 155%;   
+}
+.emoji3{
+    color:rgb(9, 5, 123) ;
+    padding: 9px;
+    background-color:rgb(255, 255, 255) ;
+    border-radius: 5px;
+    margin-right: 155%;
+}
+hr{
+   width:107px;
+   margin-bottom: 10px;
+   margin-left: 0px;
+}
